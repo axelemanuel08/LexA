@@ -1,0 +1,52 @@
+commit 74109a28fdf9e382a997440c644291af0f90ae7f
+Author: Lex A <axelemanuelpavon@gmail.com>
+Date:   Wed Mar 30 00:52:39 2022 -0300
+
+    cambio mi meta a corto plazo
+
+commit 8a5af98b4accb0b690be671626a8f364ae4bc234
+Author: Axel Emanuel <100535827+axelemanuel08@users.noreply.github.com>
+Date:   Tue Mar 22 00:03:13 2022 -0300
+
+    Update README.md
+
+commit 029e3488e341c6ec812f14cf3f30ef255d3c33ad
+Author: Axel Emanuel <100535827+axelemanuel08@users.noreply.github.com>
+Date:   Mon Mar 21 23:41:12 2022 -0300
+
+    Update README.md
+
+commit e3000bafa9a42423dfd44c1a20a4cf4cebb39162
+Author: Axel Emanuel <100535827+axelemanuel08@users.noreply.github.com>
+Date:   Mon Mar 21 23:27:06 2022 -0300
+
+    Update README.md
+
+commit 655e55b2e03e4de021a4243980f09e66d9536848
+Author: Axel Emanuel <100535827+axelemanuel08@users.noreply.github.com>
+Date:   Wed Mar 16 17:07:33 2022 -0300
+
+    Rename ABOUTME.md to README.md
+
+commit 999ff9aaeac36038a36b2b97539026bba731535c
+Author: Axel Emanuel <100535827+axelemanuel08@users.noreply.github.com>
+Date:   Wed Mar 16 16:58:17 2022 -0300
+
+    Rename README.md to ABOUTME.md
+    
+    - Rename File
+
+commit 3530c2c25aa506d3f6732c019594c8396581cdc4
+Author: axelemanuel08 <100535827+axelemanuel08@users.noreply.github.com>
+Date:   Wed Mar 16 16:38:36 2022 -0300
+
+    Update README.md
+    
+    - Added Interest
+    - Added Current Learnings
+
+commit 47b640394fd38d03541106e22203a85ef630e3f9
+Author: axelemanuel08 <100535827+axelemanuel08@users.noreply.github.com>
+Date:   Thu Mar 3 18:04:12 2022 -0300
+
+    Create README.md
