@@ -11,6 +11,9 @@
     - HTML<br>
     - CSS<br>
     - JavaScript<br>
+    BackEnd Developer<br>
+    - PHP
+    - MySQL
     Internet of Things<br>
     - Arduino<br>
 👋  Te veo luego!<br>
