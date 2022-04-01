@@ -14,6 +14,4 @@
     BackEnd Developer<br>
     - PHP<br>
     - MySQL<br>
-    Internet of Things<br>
-    - Arduino<br>
 👋  Te veo luego!<br>
