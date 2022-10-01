@@ -8,10 +8,10 @@
     <br>
 🌱 Actualmente estoy aprendiendo las siguientes temáticas...<br>
     FrontEnd Developer<br>
-    - HTML<br>
-    - CSS<br>
-    - JavaScript<br>
+    - Reactjs
     BackEnd Developer<br>
-    - PHP<br>
+    - Nodejs
+    Base de Datos:
+    - MongoDB<br>
     - MySQL<br>
 👋  Te veo luego!<br>
