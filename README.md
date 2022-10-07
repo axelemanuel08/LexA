@@ -15,5 +15,5 @@
     - MongoDB<br>
     - MySQL<br>
     E-commerce:<br>
-    - Wordpress: Integracion con WooComerce y MercadoPago
+    - Wordpress: Integracion con WooComerce y MercadoPago<br>
 👋  Te veo luego!<br>
