@@ -14,4 +14,6 @@
     Base de Datos:<br>
     - MongoDB<br>
     - MySQL<br>
+    E-commerce:<br>
+    - Wordpress: Integracion con WooComerce y MercadoPago
 👋  Te veo luego!<br>
