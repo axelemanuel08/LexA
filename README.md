@@ -1,19 +1,20 @@
 👋  Hola! Mi nombre es Axel !<br>
-    Gracias por visitar este Perfil!<br>
-    <br>
     Soy de la Provincia de Misiones, Argentina.<br>
     <br>
 👀  Me interesan un montón de cosas!<br>
-    Deportes, Ciencia, Tecnologia..<br>
+    Deportes, Ciencia, Tecnologia, y algunas otras cosas más..<br>
     <br>
-🌱 Actualmente tengo conocimiento de las siguientes tecnologías...<br>
-    FrontEnd<br>
+🌱 Actualmente trabajo con las siguientes tecnologías...<br>
+    FrontEnd:<br>
     - Reactjs<br>
-    BackEnd Developer<br>
+    BackEnd:<br>
     - Nodejs<br>
     Base de Datos:<br>
     - MongoDB<br>
     - MySQL<br>
-    E-commerce:<br>
-    - Wordpress: Integracion con WooComerce y MercadoPago<br>
+    <br>
+    Además..<br>
+    - HTML, CSS, JavaScript<br>
+    - Wordpress: WooCommerce<br>
+    <br
 👋  Te veo luego!<br>
