@@ -14,7 +14,7 @@
     - MySQL<br>
     <br>
     Además..<br>
-    - HTML, CSS, JavaScript<br>
+    - HTML y CSS<br>
     - Wordpress: WooCommerce<br>
     <br
 👋  Te veo luego!<br>
