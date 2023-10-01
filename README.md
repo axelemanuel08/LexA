@@ -5,16 +5,16 @@
     Deportes, Ciencia, Tecnologia, y algunas otras cosas más..<br>
     <br>
 🌱 Actualmente trabajo con las siguientes tecnologías...<br>
-    FrontEnd:<br>
     - Reactjs<br>
-    BackEnd:<br>
     - Nodejs<br>
+    - Java Swing<br>
     Base de Datos:<br>
     - MongoDB<br>
     - MySQL<br>
+    - MariaDB<br>
     <br>
     Además..<br>
     - HTML y CSS<br>
     - Wordpress: WooCommerce<br>
-    <br
+    <br>
 👋  Te veo luego!<br>
