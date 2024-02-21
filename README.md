@@ -8,6 +8,7 @@
     - Reactjs<br>
     - Nodejs<br>
     - Java Swing<br>
+    - Arduino<br>
     Base de Datos:<br>
     - MongoDB<br>
     - MySQL<br>
